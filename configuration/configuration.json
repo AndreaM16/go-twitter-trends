@@ -1,0 +1,12 @@
+{
+  "Credentials" : {
+    "Consumer" : {
+      "Key" : "???",
+      "Secret" : "???"
+    },
+    "Access" : {
+      "Token" : "???",
+      "Secret" : "???"
+    }
+  }
+}
